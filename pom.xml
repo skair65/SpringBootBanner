@@ -11,6 +11,7 @@
 	<groupId>com.ashokit</groupId>
 	<artifactId>04-Banner</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>04-Banner</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
